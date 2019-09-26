@@ -5,7 +5,7 @@ This is so ipsum text for the project
 ## Purpose
 this is some more useless text.....
 ## Contribute
-I can contribute
+Please for this repository and then issue Pull for review
 ## Deployment
 deploy this
 
