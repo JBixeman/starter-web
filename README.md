@@ -8,3 +8,6 @@ this is some more useless text.....
 I can contribute
 ## Deployment
 deploy this
+
+### Copyright
+2014 git.training
