@@ -13,5 +13,4 @@ some more changes on here
 deploy this
 
 ### Copyright
-2014 git.training
-I have modified this
+2014 git.training All Rights Reserved
